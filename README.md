@@ -16,7 +16,7 @@ Apply the following equations to calculate the Gaussian curvature:
 </p>
 
 
-<div align="center;">
+<div align="center";>
     <div style="display: inline-block; text-align: center; margin: 20px;">
         <img src="https://github.com/bryanliao24/Gaussian_Curvature/blob/main/img/1.PNG" width="400" alt="Image 1: Description of the image 1" />
         <p style="text-align: center;">Fig.1 - Image 1</p>
