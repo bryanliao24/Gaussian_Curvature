@@ -16,3 +16,7 @@ Apply the following equations to calculate the Gaussian curvature:
 </p>
 
 Encourage and combine the use of dca functions to simplify the calculation process.
+
+<p align="center">
+  <img src="https://github.com/bryanliao24/Gaussian_Curvature/blob/main/img/2.PNG" alt="pattial">
+</p>
