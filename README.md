@@ -19,9 +19,14 @@ Apply the following equations to calculate the Gaussian curvature:
 </div>
 
 Encourage and combine the use of dca functions to simplify the calculation process.
-<p align="center">
-  <img src="https://github.com/bryanliao24/Gaussian_Curvature/blob/main/img/2.png" alt="U-partial & V-partial">
-</p>
+
+<div align="center";>
+    <div style="display: inline-block; text-align: center; margin: 20px;">
+        <img src="https://github.com/bryanliao24/Gaussian_Curvature/blob/main/img/2.png" width="400" alt="U-partial & V-partial" />
+        <p style="text-align: center;">U-partial & V-partial</p>
+    </div>
+</div>
+
 
 
 <div style="display: flex; justify-content: center;">
