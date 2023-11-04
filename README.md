@@ -11,15 +11,10 @@ In addition, Gaussian curvature calculations with specific parameter values
 (0.25, 0.25), (0.25, 0.75), (0.5, 0.5), (0.75, 0.25) and (0.75, 0.75) are performed for the resulting curve.
 Apply the following equations to calculate the Gaussian curvature:
 
-<p align="center">
-  <img src="https://github.com/bryanliao24/Gaussian_Curvature/blob/main/img/1.PNG" alt="Gaussian Curvature">
-</p>
-
-
 <div align="center";>
     <div style="display: inline-block; text-align: center; margin: 20px;">
-        <img src="https://github.com/bryanliao24/Gaussian_Curvature/blob/main/img/1.PNG" width="400" alt="Image 1: Description of the image 1" />
-        <p style="text-align: center;">Fig.1 - Image 1</p>
+        <img src="https://github.com/bryanliao24/Gaussian_Curvature/blob/main/img/1.PNG" width="400" alt="Gaussian curvatur" />
+        <p style="text-align: center;">Gaussian curvatur</p>
     </div>
 </div>
 
