@@ -15,3 +15,12 @@ Apply the following equations to calculate the Gaussian curvature:
 </p>
 Encourage and combine the use of dca functions to simplify the calculation process.
 
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/bryanliao24/Gaussian_Curvature/blob/main/img/2.PNG" width="400"></td>
+    <td align="center"><img src="https://github.com/bryanliao24/Gaussian_Curvature/blob/main/img/3.PNG" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/bryanliao24/Gaussian_Curvature/blob/main/img/4.PNG" width="400"></td>
+  </tr>
+</table>
