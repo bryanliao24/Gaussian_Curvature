@@ -39,8 +39,7 @@ Encourage and combine the use of dca functions to simplify the calculation proce
     </div>
 </div>
 
-
-<div style="display: flex; justify-content: center;">
+<div align="center";>
     <div style="text-align: center; margin: 20px;">
         <img src="https://github.com/bryanliao24/Gaussian_Curvature/blob/main/img/4.png" width="400" alt="Image 1: Description of the image 1" />
         <img src="https://github.com/bryanliao24/Gaussian_Curvature/blob/main/img/4.png" width="400" alt="Image 2: Description of the image 2" />
