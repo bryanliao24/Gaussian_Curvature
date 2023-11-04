@@ -38,3 +38,15 @@ Encourage and combine the use of dca functions to simplify the calculation proce
         <p style="text-align: center;">UU-partial & VV-partial</p>
     </div>
 </div>
+
+<div style="text-align: center;">
+    <div style="display: inline-block; text-align: center; margin: 20px;">
+        <img src="image1.jpg" width="400" alt="Image 1: Description of the image 1" />
+        <p style="text-align: center;">Fig.1 - Image 1</p>
+    </div>
+    <div style="display: inline-block; text-align: center; margin: 20px;">
+        <img src="image2.jpg" width="400" alt="Image 2: Description of the image 2" />
+        <p style="text-align: center;">Fig.2 - Image 2</p>
+    </div>
+</div>
+
