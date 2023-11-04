@@ -13,6 +13,7 @@ Apply the following equations to calculate the Gaussian curvature:
 
 <p align="center">
   <img src="https://github.com/bryanliao24/Gaussian_Curvature/blob/main/img/1.PNG" alt="Gaussian Curvature">
+  <p style="text-align: center;">Gaussian Curvature</p>
 </p>
 
 Encourage and combine the use of dca functions to simplify the calculation process.
