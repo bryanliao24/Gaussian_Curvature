@@ -32,8 +32,7 @@ Encourage and combine the use of dca functions to simplify the calculation proce
     <div style="display: inline-block; text-align: center; margin: 20px;">
         <img src="https://github.com/bryanliao24/Gaussian_Curvature/blob/main/img/3.png" width="400" alt="UV-partial" />
         <p style="text-align: center;">UV-partial</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 20px;">
+
         <img src="https://github.com/bryanliao24/Gaussian_Curvature/blob/main/img/4.png" width="400" alt="UU-partial & VV-partial" />
         <p style="text-align: center;">UU-partial | VV-partial</p>
     </div>
